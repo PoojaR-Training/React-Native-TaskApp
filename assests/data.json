@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Alice Johnson",
+    "title": "Project Kickoff",
+    "description": "Initiate project discussions",
+    "profilePhoto": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?q=80&w=1480&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "name": "Bob Smith",
+    "title": "Product Demo",
+    "description": "Present new features to stakeholders",
+    "profilePhoto": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?q=80&w=1480&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "name": "Eva Brown",
+    "title": "Marketing Strategy Meeting",
+    "description": "Discuss marketing plans for the upcoming campaign",
+    "profilePhoto": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8dXNlcnxlbnwwfHwwfHx8MA%3D%3D"
+  },
+  {
+    "name": "David Wilson",
+    "title": "Team Meeting",
+    "description": "Review project progress and assign tasks",
+    "profilePhoto": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?q=80&w=1480&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "name": "Emma Taylor",
+    "title": "Client Feedback Session",
+    "description": "Gather feedback from clients on recent deliverables",
+    "profilePhoto": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8dXNlcnxlbnwwfHwwfHx8MA%3D%3D"
+  },
+  {
+    "name": "Olivia Martinez",
+    "title": "Project Planning Workshop",
+    "description": "Plan project timeline and milestones",
+    "profilePhoto": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8dXNlcnxlbnwwfHwwfHx8MA%3D%3D"
+  },
+  {
+    "name": "Sophia Jones",
+    "title": "Team Building Activity",
+    "description": "Engage in team-building exercises to improve collaboration",
+    "profilePhoto": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8dXNlcnxlbnwwfHwwfHx8MA%3D%3D"
+  },
+  {
+    "name": "Noah White",
+    "title": "Client Meeting",
+    "description": "Discuss project updates with the client",
+    "profilePhoto": "https://images.unsplash.com/photo-1560250097-0b93528c311a?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "name": "Isabella Lee",
+    "title": "Team Training Session",
+    "description": "Participate in training to enhance skills",
+    "profilePhoto": "https://images.unsplash.com/photo-1560250097-0b93528c311a?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "name": "James Harris",
+    "title": "Project Review Meeting",
+    "description": "Review project progress and discuss challenges",
+    "profilePhoto": "https://images.unsplash.com/photo-1560250097-0b93528c311a?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  }
+]
