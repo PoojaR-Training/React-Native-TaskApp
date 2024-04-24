@@ -7,6 +7,7 @@ import {
   ScrollView,
   Image,
   Alert,
+  Dimensions
 } from 'react-native';
 import {useNavigation} from '@react-navigation/native';
 import data from '../../assests/data.json';
@@ -117,7 +118,7 @@ const NotificationScreen = () => {
   return (
     <View style={styles.container}>
       {showNotificationBox && notificationList?.length > 0 ? (
-        <View style={styles.notificationBox}>
+          <View style={[styles.notificationBox, { height: Dimensions.get('window').height * 0.2 }]}>
           <ScrollView contentContainerStyle={styles.notificationList}>
             {notificationList.map(notification => (
               <TouchableOpacity
@@ -176,6 +177,7 @@ const styles = StyleSheet.create({
     padding: 20,
   },
   button: {
+    marginTop:25,
     backgroundColor: '#e86017',
     paddingVertical: 15,
     paddingHorizontal: 30,
@@ -208,9 +210,9 @@ const styles = StyleSheet.create({
     backgroundColor: '#a7adb0',
     borderBottomWidth: 1,
     borderBottomColor: '#E0E0E0',
-    height: '30%',
     borderRadius: 20,
     padding: 10,
+    marginBottom:20
   },
   notificationList: {
     flexGrow: 0.3,

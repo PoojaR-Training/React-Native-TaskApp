@@ -46,7 +46,7 @@ const NotificationList = () => {
       <View key={date}>
         {renderHeader(date === new Date().toLocaleDateString() ? 'Today' : date)}
         {notifications.map(notification => (
-          <Notification key={notification.index} item={notification} />
+          <Notification key={notification.index} item={notification} onNotificationClick={fetchData}/>
         ))}
       </View>
     ));

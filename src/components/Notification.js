@@ -35,7 +35,7 @@ const Notification = ({ item, onNotificationClick }) => {
 
   return (
     <TouchableOpacity onPress={handlePress}>
-      <View style={[styles.card, { backgroundColor: item.markAsRead ? '#FFF' : '#E0E0E0' }]}>
+      <View style={[styles.card, { backgroundColor: item.markAsRead ? '#FFF' : '#d6c5c5' }]}>
         <View style={styles.header}>
           <Image source={{ uri: item.item.profilePhoto }} style={styles.profilePhoto} />
           <View style={styles.headerText}>
